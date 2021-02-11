@@ -1,0 +1,14 @@
+img
+{
+    max-width: 100%;
+}
+#image-div{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin:auto;
+}
+
+#title{
+    text-align: center;
+}
